@@ -2,7 +2,7 @@
   <div id="app" class="bg-gradient-to-t bg-gray-200 min-h-full">
     <div id="nav" class="p-6 text-center shadow bg-white">
       <router-link to="/">Home</router-link> |
-      <router-link to="/contact">Contact</router-link>
+      <router-link to="/contact">Contact us</router-link>
     </div>
     <router-view />
   </div>
