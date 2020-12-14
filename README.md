@@ -1,24 +1,20 @@
 # undabot-fe
 
+## Project structure
+```
+**client** folder has *Vue* application inside
+**server** folder has *Express* application in it
+```
 ## Project setup
 ```
-npm install
+To setup a project enter each of the folders (client and server) and run 
+**npm install** to install all dependencies
 ```
 
-### Compiles and hot-reloads for development
+### Project startup in development mode
 ```
-npm run serve
+While inside **client** folder run **npm run serve**, to start the client app.
+
+While inside **server** folder, run **npm run start** to start the API.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
