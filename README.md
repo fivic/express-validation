@@ -2,8 +2,9 @@
 
 ## Project structure
 ```
-client folder has Vue application inside
-server folder has Express application in it
+Client folder has Vue application inside.
+
+Server folder has Express application in it
 ```
 ## Project setup
 ```
