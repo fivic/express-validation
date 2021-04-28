@@ -1,5 +1,5 @@
 # express-validation
-A simple landing page written in vue. Featuring contact page which validates user input on server (express.js)
+A simple landing page written in Vue with a help of Tailwind css framework. Featuring contact page which validates user input on server (express.js)
 
 ## Project structure
 ```
