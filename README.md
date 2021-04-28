@@ -1,4 +1,5 @@
-# undabot-fe
+# express-validation
+A simple landing page written in vue. Featuring contact page which validates user input on server (express.js)
 
 ## Project structure
 ```
